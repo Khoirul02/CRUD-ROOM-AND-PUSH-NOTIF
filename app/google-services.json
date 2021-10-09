@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733637439474",
+    "project_id": "crud-room",
+    "storage_bucket": "crud-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733637439474:android:e5e0da64e70a2bbe81856b",
+        "android_client_info": {
+          "package_name": "com.aplikasi.crud_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733637439474-bsvp99ifc241i76p4stlf3t7i4o6hac9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIJpNApVdCCxg3KksPfePnvGZYg6H1kQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733637439474-bsvp99ifc241i76p4stlf3t7i4o6hac9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

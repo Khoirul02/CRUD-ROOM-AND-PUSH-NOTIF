@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Local Storage</string>
+    <string name="msg_token_fmt">pesan token</string>
+    <string name="fcm_message">Pesan</string>
+    <string name="channel_name">NotifChannel</string>
+    <string name="channel_description">My Notif Channel</string>
+</resources>

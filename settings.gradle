@@ -1,0 +1,2 @@
+rootProject.name='CRUD_ROOM'
+include ':app'
